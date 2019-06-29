@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="554dc2b9-6462-4932-84a1-dea5069b36ce" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System.out.println(</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/kinopoisk/getData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="10" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="7" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kinopoisk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kinopoisk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kinopoisk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kinopoisk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kinopoisk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kinopoisk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kinopoisk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kinopoisk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kinopoisk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kinopoisk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kinopoisk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GetData.getData">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="GetData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kinopoisk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.kinopoisk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.kinopoisk" />
+      <option name="MAIN_CLASS_NAME" value="ru.kinopoisk.GetData" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GetData.getData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kinopoisk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.kinopoisk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.kinopoisk" />
+      <option name="MAIN_CLASS_NAME" value="ru.kinopoisk.GetData" />
+      <option name="METHOD_NAME" value="getData" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GetData" />
+      <item itemvalue="JUnit.GetData.getData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetData.getData" />
+        <item itemvalue="JUnit.GetData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="554dc2b9-6462-4932-84a1-dea5069b36ce" name="Default" comment="" />
+      <created>1561284017994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561284017994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GetData_getData - 2019.06.26 at 22h 33m 06s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.27 at 09h 25m 41s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.27 at 21h 00m 38s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.28 at 02h 19m 43s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.28 at 03h 49m 21s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.28 at 08h 27m 31s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.28 at 09h 13m 46s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.29 at 02h 14m 32s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.29 at 10h 07m 42s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GetData_getData - 2019.06.29 at 11h 24m 00s.xml">
+      <configuration name="GetData.getData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="7" width="1366" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32903227" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54323" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25333333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.34094617" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2686">
+          <caret line="158" column="2" lean-forward="true" selection-start-line="158" selection-start-column="2" selection-end-line="158" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="680" column="19" selection-start-line="680" selection-start-column="4" selection-end-line="680" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="398" column="22" selection-start-line="398" selection-start-column="22" selection-end-line="398" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/kinopoisk/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
